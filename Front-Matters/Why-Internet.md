@@ -2,9 +2,9 @@
 
 ---
 
-> If I have seen further than others, it is by standing upon the shoulders of giants. 
+> If I have seen further than others, it is by standing upon the shoulders of giants.
 >
-> - Isaac Newton
+> -- Isaac Newton
 
 ইন্টারনেট নিয়ে কেন? হাজার বিষয় থাকতে ইন্টারনেট নিয়ে লাগলাম কেন?
 
