@@ -2,11 +2,11 @@
 
 ## ব্রডব্যান্ড বাংলাদেশ
 
-* [শুরুর কথা](README.md)
-  * [ইন্টারনেট নিয়ে কেন?](Front-Matters/Why-Internet.md)
-  * [বইটা লিখতে চাইলাম কেন?](Front-Matters/Why-this-book.md)
-  * [কাদের জন্য?](Front-Matters/Target_audience.md)
-* [তৈরী হবার গল্প](Start/README.md)
-  * [ইন্টারনেট চাবিয়ে বড় হওয়া](Start/growing-up.md)
-  * [ঘোড়া বন্ধু](Start/friend.md)
+* [১. শুরুর কথা](README.md)
+  * [১.১. ইন্টারনেট নিয়ে কেন?](Front-Matters/Why-Internet.md)
+  * [১.২. বইটা লিখতে চাইলাম কেন?](Front-Matters/Why-this-book.md)
+  * [১.৩. কাদের জন্য?](Front-Matters/Target_audience.md)
+* [২. তৈরী হবার গল্প](Start/README.md)
+  * [২.১. ইন্টারনেট চাবিয়ে বড় হওয়া](Start/growing-up.md)
+  * [২.২. ঘোড়া বন্ধু](Start/friend.md)
 
