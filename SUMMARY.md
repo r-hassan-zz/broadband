@@ -6,7 +6,8 @@
   * [ইন্টারনেট নিয়ে কেন?](Front-Matters/Why-Internet.md)
   * [বইটা লিখতে চাইলাম কেন?](Front-Matters/Why-this-book.md)
   * [কাদের জন্য?](Front-Matters/Target_audience.md)
-* [নোট নেবে কে?](.md)
+* [তৈরী হবার গল্প](Start/README.md)
+  * ইন্টারনেট চাবিয়ে বড় হওয়া
 
 ## তৈরী হবার গল্প
 
