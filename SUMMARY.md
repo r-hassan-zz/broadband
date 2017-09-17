@@ -8,6 +8,5 @@
   * [কাদের জন্য?](Front-Matters/Target_audience.md)
 * [তৈরী হবার গল্প](Start/README.md)
   * [ইন্টারনেট চাবিয়ে বড় হওয়া](Start/growing-up.md)
-
-## তৈরী হবার গল্প
+  * ঘোড়া বন্ধু
 
