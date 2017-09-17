@@ -6,3 +6,7 @@
   * [কাদের জন্য?](Front-Matters/Target_audience.md)
 * [First Chapter](chapter1.md)
 
+## তৈরী হবার গল্প
+
+* নোট নেবে কে?
+
