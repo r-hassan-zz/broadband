@@ -10,4 +10,5 @@
   * [২.১. ইন্টারনেট চাবিয়ে বড় হওয়া](Start/growing-up.md)
   * [২.২. ঘোড়া বন্ধু](Start/friend.md)
   * [২.৩. প্রযুক্তিবিদ না অর্থনীতিবিদ?](Start/tech-economist.md)
+  * [২.৪. বটম অফ দ্য পিরামিড](Start/bottom-of-pyramid.md)
 
