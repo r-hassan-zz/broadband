@@ -23,6 +23,7 @@
   * [৪.২. মেলাবেন কিভাবে ডিমান্ড আর সাপ্লাই সাইডের যোগসূত্র?](Internet-ecosystem/demand-supply.md)
   * [৪.৩. ডিমান্ড বাড়ানোর নীতিমালা](Internet-ecosystem/demand-driven.md)
   * [৪.৪. ইকোসিষ্টেমের গল্প](Internet-ecosystem/ecosystem-story.md)
+  * ৪.৫. দরকার কি ইকোসিস্টেমের?
 
 ## ইন্টারনেট, কর্মসংস্থান, জিডিপি = মানুষের মুক্তি
 
