@@ -19,7 +19,7 @@
   * [৩.৪. দেশের ব্রডব্যান্ড কমিশন](job-creation/bb-commission.md)
   * [৩.৫. আর কি সুবিধা?](job-creation/more-benefit.md)
 * [৪. ইন্টারনেট ইকোসিস্টেম](Internet-ecosystem/README.md)
-  * [৪.১. ইন্টারনেট মানে নেটওয়ার্ক?](.md)
+  * [৪.১. ইন্টারনেট মানে নেটওয়ার্ক?](Internet-ecosystem/network.md)
 
 ## ইন্টারনেট, কর্মসংস্থান, জিডিপি = মানুষের মুক্তি
 
