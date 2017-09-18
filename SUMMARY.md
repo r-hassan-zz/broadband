@@ -22,7 +22,7 @@
   * [৪.১. ইন্টারনেট মানে নেটওয়ার্ক?](Internet-ecosystem/network.md)
   * [৪.২. মেলাবেন কিভাবে ডিমান্ড আর সাপ্লাই সাইডের যোগসূত্র?](Internet-ecosystem/demand-supply.md)
   * [৪.৩. ডিমান্ড বাড়ানোর নীতিমালা](Internet-ecosystem/demand-driven.md)
-  * [৪.৪. ইকোসিষ্টেমের গল্প](Internet-ecosystem/.md)
+  * [৪.৪. ইকোসিষ্টেমের গল্প](Internet-ecosystem/ecosystem-story.md)
 
 ## ইন্টারনেট, কর্মসংস্থান, জিডিপি = মানুষের মুক্তি
 
