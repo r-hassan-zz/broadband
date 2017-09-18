@@ -24,6 +24,7 @@
   * [৪.৩. ডিমান্ড বাড়ানোর নীতিমালা](Internet-ecosystem/demand-driven.md)
   * [৪.৪. ইকোসিষ্টেমের গল্প](Internet-ecosystem/ecosystem-story.md)
   * [৪.৫. দরকার কি ইকোসিস্টেমের?](Internet-ecosystem/ecosystem-requirement.md)
+  * [৪.৬. নেটওয়ার্ক অ্যাভেইলেবিলিটি গ্যাপ](Internet-ecosystem/network-gap.md)
 
 ## ইন্টারনেট, কর্মসংস্থান, জিডিপি = মানুষের মুক্তি
 
