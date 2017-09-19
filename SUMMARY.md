@@ -31,4 +31,6 @@
   * [৫.২. কনটেন্ট ইজ দ্য কিং!](Internet-pricing/content-king.md)
   * [৫.৩. ইন্টারনেটের দাম নিচ্ছে কে?](Internet-pricing/who-takes-it.md)
   * [৫.৪. ইন্টারমিডিয়ারী লাইয়াবিলিটি প্রটেকশন](Internet-pricing/intermediate-liability.md)
+  * [৫.৫. ক্রিটিকাল ইনফ্রাস্ট্রাকচার](Internet-pricing/Critical-infrastructure.md)
+  * [৫.৬. ডিমান্ড এগ্রিগেশন, সবচেয়ে বড় ক্রেতা কে?](Internet-pricing/demand-aggregation.md)
 
