@@ -30,5 +30,5 @@
   * [৫.১. দাম বাড়ে কেন?](Internet-pricing/why-price-high.md)
   * [৫.২. কনটেন্ট ইজ দ্য কিং!](Internet-pricing/content-king.md)
   * [৫.৩. ইন্টারনেটের দাম নিচ্ছে কে?](Internet-pricing/who-takes-it.md)
-  * [৫.৪. ইন্টারমিডিয়ারী লাইয়াবিলিটি প্রটেকশন](Internet-pricing/.md)
+  * [৫.৪. ইন্টারমিডিয়ারী লাইয়াবিলিটি প্রটেকশন](Internet-pricing/intermediate-liability.md)
 
