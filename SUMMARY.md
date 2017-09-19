@@ -26,5 +26,9 @@
   * [৪.৫. দরকার কি ইকোসিস্টেমের?](Internet-ecosystem/ecosystem-requirement.md)
   * [৪.৬. নেটওয়ার্ক অ্যাভেইলেবিলিটি গ্যাপ](Internet-ecosystem/network-gap.md)
   * [৪.৭. কানট্রি কোড টপ লেভেল ডোমেইন](Internet-ecosystem/cctld.md)
-* ৫. ইন্টারনেটের দামাদামি গল্প
+* [৫. ইন্টারনেটের দামাদামি গল্প](Internet-pricing/README.md)
+  * [৫.১. দাম বাড়ে কেন?](Internet-pricing/why-price-high.md)
+  * [৫.২. কনটেন্ট ইজ দ্য কিং!](Internet-pricing/content-king.md)
+  * [৫.৩. ইন্টারনেটের দাম নিচ্ছে কে?](Internet-pricing/who-takes-it.md)
+  * [৫.৪. ইন্টারমিডিয়ারী লাইয়াবিলিটি প্রটেকশন](Internet-pricing/.md)
 
